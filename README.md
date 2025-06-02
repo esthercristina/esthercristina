@@ -2,8 +2,8 @@
 <h2>📌 Projetos Desenvolvidos:</h2>
 
 - <b>Power BI</b>
-  - [Análise de empresa de Ecommerce](https://github.com/esthercristina/Powerbi_Ecommerce)
-  - [Análise de empresa de PetShop](https://github.com/esthercristina/PowerBI_PetShop)
+  - [Análise de Vendas - Ecommerce](https://github.com/esthercristina/Powerbi_Ecommerce)
+  - [Análise de Resultados - PetShop](https://github.com/esthercristina/PowerBI_PetShop)
   
 - <b>Python</b>
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
