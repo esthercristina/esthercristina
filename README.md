@@ -1,14 +1,14 @@
 <h1>Olá, sou a Esther! <br/><a >Analista de Dados</a> e <a >Controller</a> 👩🏽‍💻
 <h2>📌 Projetos Desenvolvidos:</h2>
 
-- <b>Power BI</b>
+- <b>📊 Power BI</b>
   - [Análise de Vendas - Ecommerce](https://github.com/esthercristina/Powerbi_Ecommerce)
   - [Análise de Resultados - PetShop](https://github.com/esthercristina/PowerBI_PetShop)
     
-- <b>Python</b>
+- <b>🐍 Python</b>
   - [Análise de Folha de Pagamento](https://github.com/esthercristina/Powerbi_Ecommerce)
  
-- <b>Pesquisas</b>
+- <b>🔎 Pesquisas</b>
   - [Economia Comportamental - Por que Compramos o que Compramos - Vieses Cognitivos nas Compras Online](https://github.com/esthercristina/Pesquisa_EconomiaComportamental)
   
 
