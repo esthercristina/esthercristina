@@ -1,4 +1,4 @@
-<h1>Olá, sou a Esther! <br/><a >Analista de Dados</a> e <a >Controller</a> 👩🏽‍💻
+<h1>Olá, sou Esther! <br/><a >Analista de Dados</a> e <a >Controller</a> 👩🏽‍💻
 <h2>📌 Projetos Desenvolvidos:</h2>
 
 - <b>📊 Power BI</b>
