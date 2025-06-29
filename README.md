@@ -9,7 +9,7 @@
   - [Análise de Folha de Pagamento](https://github.com/esthercristina/Powerbi_Ecommerce)
  
 - <b>Pesquisas</b>
-  - [Pesquisa em Economia Comportamental: Vieses Cognitivos nas Compras Online](https://github.com/esthercristina/Pesquisa_EconomiaComportamental)
+  - [Economia Comportamental - Por que Compramos o que Compramos - Vieses Cognitivos nas Compras Online](https://github.com/esthercristina/Pesquisa_EconomiaComportamental)
   
 
 <h2> 🤳 Connect with me:</h2>
