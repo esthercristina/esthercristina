@@ -4,6 +4,12 @@
 - <b>Power BI</b>
   - [Análise de Vendas - Ecommerce](https://github.com/esthercristina/Powerbi_Ecommerce)
   - [Análise de Resultados - PetShop](https://github.com/esthercristina/PowerBI_PetShop)
+    
+- <b>Python</b>
+  - [Análise de Folha de Pagamento](https://github.com/esthercristina/Powerbi_Ecommerce)
+ 
+- <b>Pesquisas</b>
+  - [Pesquisa em Economia Comportamental: Vieses Cognitivos nas Compras Online](https://github.com/esthercristina/Pesquisa_EconomiaComportamental)
   
 
 <h2> 🤳 Connect with me:</h2>
